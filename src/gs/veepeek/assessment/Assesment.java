@@ -17,7 +17,7 @@ import java.sql.*;
 
 /**
  *
- * @author veepe
+ * @author VeePeeK
  */
 public class Assesment {
 
